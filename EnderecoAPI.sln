@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endereco.API", "EnderecoAPI\Endereco.API.csproj", "{382F4412-0DBC-49F2-B8AC-41A0828B7A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endereco.Domain", "Endereco.Domain\Endereco.Domain.csproj", "{70886ADE-670F-4341-A0BB-02D974EBCA49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endereco.Domain.Core", "Endereco.Domain.Core\Endereco.Domain.Core.csproj", "{9414D0EE-03B2-4055-B4DE-C0DCB193D5F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endereco.Domain.Services", "Endereco.Domain.Services\Endereco.Domain.Services.csproj", "{DD8600EC-D2CB-49A8-807A-263289F3C60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endereco.Infrastructure", "Endereco.Infrastructure\Endereco.Infrastructure.csproj", "{4DE0E309-56AB-489D-9654-86555BFC41F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endereco.Application", "Endereco.Application\Endereco.Application.csproj", "{053A9985-22CB-4665-AC57-79AA9C95455D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{382F4412-0DBC-49F2-B8AC-41A0828B7A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{382F4412-0DBC-49F2-B8AC-41A0828B7A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{382F4412-0DBC-49F2-B8AC-41A0828B7A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{382F4412-0DBC-49F2-B8AC-41A0828B7A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70886ADE-670F-4341-A0BB-02D974EBCA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70886ADE-670F-4341-A0BB-02D974EBCA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70886ADE-670F-4341-A0BB-02D974EBCA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70886ADE-670F-4341-A0BB-02D974EBCA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9414D0EE-03B2-4055-B4DE-C0DCB193D5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9414D0EE-03B2-4055-B4DE-C0DCB193D5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9414D0EE-03B2-4055-B4DE-C0DCB193D5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9414D0EE-03B2-4055-B4DE-C0DCB193D5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8600EC-D2CB-49A8-807A-263289F3C60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8600EC-D2CB-49A8-807A-263289F3C60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8600EC-D2CB-49A8-807A-263289F3C60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8600EC-D2CB-49A8-807A-263289F3C60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE0E309-56AB-489D-9654-86555BFC41F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE0E309-56AB-489D-9654-86555BFC41F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE0E309-56AB-489D-9654-86555BFC41F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE0E309-56AB-489D-9654-86555BFC41F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053A9985-22CB-4665-AC57-79AA9C95455D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053A9985-22CB-4665-AC57-79AA9C95455D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053A9985-22CB-4665-AC57-79AA9C95455D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053A9985-22CB-4665-AC57-79AA9C95455D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0F2A6B1-D5A6-4D1C-AA1B-7E3AE41B1163}
+	EndGlobalSection
+EndGlobal

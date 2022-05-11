@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BAq6LgTFTnZAk4NqlEB3lnhUkSgnLLT6h/raXbgvl3KEhPQKZUrYKD3b8NB8Tjpau+g7YgTrRyvEa0P6fA6MiA==",
+  "success": true,
+  "projectFilePath": "C:\\PessoaisProjects\\EnderecoAPI\\Endereco.Application\\Endereco.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\197245\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\197245\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

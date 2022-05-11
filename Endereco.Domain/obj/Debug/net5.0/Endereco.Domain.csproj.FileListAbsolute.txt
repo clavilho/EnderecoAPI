@@ -1,0 +1,16 @@
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\bin\Debug\net5.0\Endereco.Domain.exe
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\bin\Debug\net5.0\Endereco.Domain.deps.json
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\bin\Debug\net5.0\Endereco.Domain.runtimeconfig.json
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\bin\Debug\net5.0\Endereco.Domain.runtimeconfig.dev.json
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\bin\Debug\net5.0\Endereco.Domain.dll
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\bin\Debug\net5.0\Endereco.Domain.pdb
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\obj\Debug\net5.0\Endereco.Domain.csproj.AssemblyReference.cache
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\obj\Debug\net5.0\Endereco.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\obj\Debug\net5.0\Endereco.Domain.AssemblyInfoInputs.cache
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\obj\Debug\net5.0\Endereco.Domain.AssemblyInfo.cs
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\obj\Debug\net5.0\Endereco.Domain.csproj.CoreCompileInputs.cache
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\obj\Debug\net5.0\Endereco.Domain.dll
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\obj\Debug\net5.0\refint\Endereco.Domain.dll
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\obj\Debug\net5.0\Endereco.Domain.pdb
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\obj\Debug\net5.0\Endereco.Domain.genruntimeconfig.cache
+C:\PessoaisProjects\EnderecoAPI\Endereco.Domain\obj\Debug\net5.0\ref\Endereco.Domain.dll
